@@ -115,7 +115,7 @@ Here are a few of the most common tags you'll use to add content inside the `<bo
 | <p> | Paragraph | Defines a paragraph of text. |
 | <a> | Anchor (Link) | Creates a clickable link. Requires the href attribute . |
 | <img> | Image | Embeds an image. Requires src and alt attributes. |
-| <ul> and <li> | Unordered List | Creates a bulleted list. <ul> is the container, <li> is each item. |
+| <ul> and <li> | Unordered List | Creates a bulleted list. <code><ul><code> is the container, <code><li></code> is each item. |
 | <ol> and <li> | Ordered List | Creates a numbered list. <ol> is the container, <li> is each item. |
 
 * * *
